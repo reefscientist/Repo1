@@ -4,3 +4,4 @@ plot(x,y)
 summary(x)
 mean(x)
 median(x)#this is something added by Patrick
+#blah blah blah making more changes
